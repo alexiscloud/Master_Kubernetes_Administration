@@ -6,7 +6,8 @@ Type the following Docker commands:
     docker run -d -p 8080:80 --name webserver nginx
 
 > Pull and run a Nginx server
-<img src="https://github.com/alexiscloud/Master_Kubernetes_Administration/blob/main/Screenshot 2023-05-25 112216.jpg?raw=true" width ="80%">
+
+<img src="https://github.com/alexiscloud/Master_Kubernetes_Administration/blob/main/Screenshot 2023-05-25 112216.jpg?raw=true" width ="100%">
 ## List the running containers
 
     docker ps
