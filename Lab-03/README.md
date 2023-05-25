@@ -11,7 +11,8 @@ Type the following Docker commands:
 ## List the running containers
 
     docker ps
-
+> List the running container
+<img src="https://github.com/alexiscloud/Master_Kubernetes_Administration/blob/main/Screenshots/Screenshot 2023-05-25 112309.jpg?raw=true" width ="100%">
 ## List the images
 
     docker images
