@@ -1,4 +1,4 @@
-# Module 2 : Introduction to Containers and Docker
+# Introduction to Containers and Docker
 ## Setting up Docker on a Linux host
 > Linux
 
